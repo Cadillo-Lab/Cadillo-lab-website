@@ -169,7 +169,44 @@ const JoinUs = () => {
                   }}
                 >
                   <summary style={{ cursor: "pointer" }}>Position</summary>
-                  <p style={{ marginTop: "10px" }}>No positions available</p>
+                  <p style={{ marginTop: "10px" }}>2025 position available</p>
+                   <p className="common-text">
+                  The Cadillo Lab at the School of Life Sciences at Arizona State University is seeking a postdoctoral researcher to lead efforts to advance our understanding of microbial physiology, gene expression and cellular modeling, and microbial ecology of methanogens and methanotrophs in soils.
+
+Terrestrial ecosystems are responding to climate change in a broad range of ways, and feedbacks leading to ecosystem transitions from greenhouse gas sinks to sources demand immediate attention. Forested ecosystems like transitional sub-boreal forests provide a critical case to study transitions from methanotrophic to methanogenic activities and microbial functioning relevant to large areas of northern forests.
+
+We are part of a collaborative effort (NSF-funded project) bringing together researchers from five institutions (ASU, SDU, UM, UNC and Woodwell Climate Research Center as lead) to evaluate how environmental controls merge with biological processes and thus decipher the mechanisms and functional relationships driving CH4 sink/source activity from the microsite to landscape level in the Howland Research Forest. This project will integrate multi-scale field- and lab-based experimental observations of CH4 production, CH4 oxidation, stable carbon isotopes, microbial analysis, and modeling.
+ 
+Essential duties
+1.       Develop experimental and computational analysis to integrate microbial communities (metagenomes), operational genes (functional markers), and traits (kinetics) in culture and culture-free approaches to predict activity rates of microbial guild under field conditions.
+2.       Evaluate field and lab-based gene expression patterns to predict guild activity rates based on ecophysiological microbial modeling.
+
+3.       Write scientific papers associated with the research.
+4.       Travel to fieldwork activities and meetings to present results.
+5.       Be an active member in research group activities (e.g., participate in lab meetings, mentor students, contribute to lab governance).
+ 
+Qualifications
+
+Minimum Qualifications
+1.  Successful candidates must have earned a doctoral degree or the equivalent terminal degree in a relevant area, such as Microbiology, Molecular Biology, Bioinformatics, Environmental Sciences, Ecosystem Sciences, or Environmental Engineering, at the time of appointment.
+
+2.  Demonstrated dedication to solving microbial physiology and contributions to ecosystem problems through research and scholarship.
+
+3.  Must have the capacity to work effectively in interdisciplinary teams.
+
+4.   A demonstrated record of scholarly achievement, excellent communication skills, and proficiency in both written and spoken English.
+ 
+Desired qualifications
+1.	Candidates with expertise in microbial communities, microbial gene expression and physiology, microbial ecology, or computational or experimental genomics in the context of responses to environmental change, will be preferred.
+2.	Strong candidates should possess: (A) a significant publication record (papers published, in press, or submitted), (B) creativity, independence, and the desire to learn, (C) abilities to design molecular and genomic evaluations, and (D) analytical, interpersonal, and presentation skills.
+3.	Demonstrated commitment to working with faculty, staff, students and communities to advance the ASU Charter.
+Application Instructions
+The application is currently on a rolling basis. Selected applicants will be invited to provide the following materials before interviews.
+1.	A cover letter and research interests. Applicants should describe their experience and suitability for the position. This piece should highlight the strengths of the applicant’s experience in developing and implementing the proposed research.
+2.	Curriculum vitae or resume.
+3.	Contact information (name, email, and phone) for three references who may be contacted at a later stage of consideration.
+4.	A brief description of past research accomplishments and future research goals.
+                </p>
                 </details>
               </div>
             </div>
